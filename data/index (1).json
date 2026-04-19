@@ -1,0 +1,440 @@
+[
+  {
+    "char_id": "103",
+    "char_name": "琥珀",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM10301.lua",
+        "command_count": 207
+      }
+    ],
+    "signature": "已读不回是犯罪",
+    "landmark": "幸运绿洲号车顶"
+  },
+  {
+    "char_id": "107",
+    "char_name": "缇莉娅",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM10701.lua",
+        "command_count": 200
+      }
+    ],
+    "signature": "防治手机诈骗人人有责",
+    "landmark": "埃摩灰城区星门驿站旁公寓二楼三号"
+  },
+  {
+    "char_id": "108",
+    "char_name": "卡西米拉",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM10801.lua",
+        "command_count": 198
+      }
+    ],
+    "signature": "佣兵业务请联系工作号",
+    "landmark": "请在米拉什南部入口的旗杆上留信"
+  },
+  {
+    "char_id": "110",
+    "char_name": "翡冷翠",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11001.lua",
+        "command_count": 239
+      }
+    ],
+    "signature": "非工作时间勿扰",
+    "landmark": "菲莱金城区雪时大道六栋"
+  },
+  {
+    "char_id": "111",
+    "char_name": "鸢尾",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11101.lua",
+        "command_count": 319
+      }
+    ],
+    "signature": "诚接各类账目、魔法、教学派遣工作",
+    "landmark": "幸运绿洲号"
+  },
+  {
+    "char_id": "112",
+    "char_name": "尘沙",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11201.lua",
+        "command_count": 232
+      }
+    ],
+    "signature": "这个人很懒，什么都没有写",
+    "landmark": ""
+  },
+  {
+    "char_id": "113",
+    "char_name": "师渺",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11301.lua",
+        "command_count": 223
+      }
+    ],
+    "signature": "已通知违章的店铺请尽速整改！！！",
+    "landmark": "苍梧城珠林路六号"
+  },
+  {
+    "char_id": "116",
+    "char_name": "岭川",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11601.lua",
+        "command_count": 154
+      }
+    ],
+    "signature": "想要学会光合作用……",
+    "landmark": "菲莱城联合种业南区6号温室"
+  },
+  {
+    "char_id": "117",
+    "char_name": "璟麟",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11701.lua",
+        "command_count": 228
+      }
+    ],
+    "signature": "怀璟食府欢迎您，定桌请提前致电",
+    "landmark": "菲莱城阿斯旺街八号"
+  },
+  {
+    "char_id": "118",
+    "char_name": "科洛妮丝",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11801.lua",
+        "command_count": 192
+      }
+    ],
+    "signature": "你好",
+    "landmark": "菲莱的“那个”诊所"
+  },
+  {
+    "char_id": "119",
+    "char_name": "花原",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM11901.lua",
+        "command_count": 155
+      },
+      {
+        "seq": "02",
+        "filename": "PM11902.lua",
+        "command_count": 112
+      }
+    ],
+    "signature": "谷风家政为您提供最关怀备至的服务",
+    "landmark": "请寄给距离最近的谷风家政服务点"
+  },
+  {
+    "char_id": "120",
+    "char_name": "卡娜丝",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM12001.lua",
+        "command_count": 258
+      }
+    ],
+    "signature": "问作业是啥的一律不回复",
+    "landmark": "埃摩星辉附属大学第三教学楼教师办公室"
+  },
+  {
+    "char_id": "123",
+    "char_name": "杏子",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM12301.lua",
+        "command_count": 307
+      }
+    ],
+    "signature": "嘎乌",
+    "landmark": "伊西村"
+  },
+  {
+    "char_id": "125",
+    "char_name": "苍兰",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM12501.lua",
+        "command_count": 222
+      },
+      {
+        "seq": "02",
+        "filename": "PM12502.lua",
+        "command_count": 126
+      }
+    ],
+    "signature": "一般不生气",
+    "landmark": "贝林港十街九号"
+  },
+  {
+    "char_id": "126",
+    "char_name": "紫槿",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM12601.lua",
+        "command_count": 266
+      }
+    ],
+    "signature": "记得来看演出",
+    "landmark": "弗拉维奥城外南部森林"
+  },
+  {
+    "char_id": "127",
+    "char_name": "特丽莎",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM12701.lua",
+        "command_count": 237
+      }
+    ],
+    "signature": "日行一善！",
+    "landmark": ""
+  },
+  {
+    "char_id": "132",
+    "char_name": "密涅瓦",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM13201.lua",
+        "command_count": 254
+      },
+      {
+        "seq": "02",
+        "filename": "PM13202.lua",
+        "command_count": 153
+      }
+    ],
+    "signature": "峩，到底甾堅強、還素逞強吖.",
+    "landmark": "埃摩灰城区水道桥下"
+  },
+  {
+    "char_id": "133",
+    "char_name": "夏花",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM13301.lua",
+        "command_count": 195
+      }
+    ],
+    "signature": "谁懂呢",
+    "landmark": "菲莱城外东部森林花令旅团驻地"
+  },
+  {
+    "char_id": "134",
+    "char_name": "冬香",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM13401.lua",
+        "command_count": 150
+      }
+    ],
+    "signature": "萌新报道",
+    "landmark": ""
+  },
+  {
+    "char_id": "135",
+    "char_name": "雾语",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM13501.lua",
+        "command_count": 236
+      },
+      {
+        "seq": "02",
+        "filename": "PM13502.lua",
+        "command_count": 186
+      }
+    ],
+    "signature": "无图无真相",
+    "landmark": "新闻线索提供请找绯瞳灯塔"
+  },
+  {
+    "char_id": "141",
+    "char_name": "赤霞",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM14101.lua",
+        "command_count": 170
+      },
+      {
+        "seq": "02",
+        "filename": "PM14102.lua",
+        "command_count": 129
+      }
+    ],
+    "signature": "一流玄师，画符找我！",
+    "landmark": "一年有四个月在苍梧城"
+  },
+  {
+    "char_id": "142",
+    "char_name": "珂赛特",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM14201.lua",
+        "command_count": 160
+      }
+    ],
+    "signature": "由于隐私设置，签名不可见",
+    "landmark": "埃摩的地理协会可找"
+  },
+  {
+    "char_id": "143",
+    "char_name": "风影",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM14301.lua",
+        "command_count": 175
+      }
+    ],
+    "signature": "好——热——",
+    "landmark": "不便透露"
+  },
+  {
+    "char_id": "144",
+    "char_name": "千都世",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM14401.lua",
+        "command_count": 157
+      }
+    ],
+    "signature": "刀，是不会迟疑的",
+    "landmark": "「听雨」驿站"
+  },
+  {
+    "char_id": "147",
+    "char_name": "焦糖",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM14701.lua",
+        "command_count": 151
+      }
+    ],
+    "signature": "如有演出需求可带零食联系！",
+    "landmark": "在弗拉维奥附近，或许"
+  },
+  {
+    "char_id": "149",
+    "char_name": "格芮",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM14901.lua",
+        "command_count": 178
+      },
+      {
+        "seq": "02",
+        "filename": "PM14902.lua",
+        "command_count": 117
+      }
+    ],
+    "signature": "给我主发了短信，祂说不在服务区",
+    "landmark": "埃摩银城区埃摩恩赐主大圣所"
+  },
+  {
+    "char_id": "150",
+    "char_name": "菈露",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM15001.lua",
+        "command_count": 182
+      }
+    ],
+    "signature": "星塔薯条好吃，人和鱼都爱吃。",
+    "landmark": "埃摩城外小树林里的深水潭边"
+  },
+  {
+    "char_id": "155",
+    "char_name": "希娅",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM15501.lua",
+        "command_count": 162
+      }
+    ],
+    "signature": "一起去看海吧！",
+    "landmark": "塞尔斯泰晨曦街78号"
+  },
+  {
+    "char_id": "156",
+    "char_name": "小禾",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM15601.lua",
+        "command_count": 162
+      },
+      {
+        "seq": "02",
+        "filename": "PM15602.lua",
+        "command_count": 119
+      }
+    ],
+    "signature": "你有看见过我的布娃娃吗？",
+    "landmark": ""
+  },
+  {
+    "char_id": "158",
+    "char_name": "菈露（圣夜）",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM15801.lua",
+        "command_count": 131
+      }
+    ],
+    "signature": "正在超美丽超努力工作状态，勿扰哟",
+    "landmark": "雪愿节活动组委会办公驻地"
+  },
+  {
+    "char_id": "159",
+    "char_name": "科洛妮丝（新春）",
+    "scripts": [
+      {
+        "seq": "01",
+        "filename": "PM15901.lua",
+        "command_count": 165
+      }
+    ],
+    "signature": "休假外出中。",
+    "landmark": ""
+  }
+]
